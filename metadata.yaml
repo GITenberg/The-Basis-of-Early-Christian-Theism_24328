@@ -1,0 +1,33 @@
+_repo: The-Basis-of-Early-Christian-Theism_24328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Lawrence Thomas
+    birthdate: 1869
+    gutenberg_agent_id: '26407'
+    url: http://www.gutenberg.org/2009/agents/26407
+description: In 1898 Lawrence Cole submitted The Basis of Early Christian Theism as
+  partial fulfillment for the requirements for a PhD in Philosophy at Columbia University.
+  Theism is a doctrine concerning the nature of God and his relationship to the universe.
+  God is seen as personal and active in the organization of the Universe. Cole begins
+  by saying, ""In accounts of the theistic argument, as in the history of philosophy
+  in general, it has been customary to pass over a space of well-nigh ten centuries
+  of the Christian era in silence, or with such scanty and unsympathetic notice as
+  to make silence the be.
+gutenberg_issued: '2008-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Theism'
+title: The Basis of Early Christian Theism
+url: http://www.gutenberg.org/ebooks/24328
